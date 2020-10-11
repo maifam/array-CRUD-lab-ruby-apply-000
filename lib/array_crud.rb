@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   array << element
 end
-puts array (["dogs", "cats", "birds", "fish"], "snake")
+puts array(["dogs", "cats", "birds", "fish"], "snake")
 
 def add_element_to_start_of_array(array, element)
   
