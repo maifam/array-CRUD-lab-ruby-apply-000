@@ -8,9 +8,9 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["dogs", "cats", "birds", "fish"] << element
-  
+  element = "arrays!"
 end
-puts array(["dogs", "cats", "birds", "fish"], "snake")
+
 
 def add_element_to_start_of_array(array, element)
   
